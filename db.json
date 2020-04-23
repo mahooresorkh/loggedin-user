@@ -1,0 +1,14 @@
+{
+    "info": [
+        {
+            "id": 1,
+            "name": "جوکر",
+            "image": "../images/joker.png"
+        },
+        {
+            "id": 2,
+            "name": "معماساز",
+            "image": "https://i.ebayimg.com/images/g/v4oAAMXQPd1RHHIQ/s-l300.jpg"
+        }
+    ]     
+}
